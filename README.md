@@ -34,3 +34,6 @@ Completed foundational Python programming exercises and developed a basic unders
 
 ### Repository Purpose
 This repository contains the learning notes, Python programs and practical assignments completed during Module 01 of the AIML internship at Codomax Digital Solutions.
+
+## notes Notion Link
+https://app.notion.com/p/Module-01-Introduction-to-AI-Python-4140c96c5e0580ea96b4c9c8eb7f24ba?source=copy_link
